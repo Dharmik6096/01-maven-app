@@ -66,6 +66,7 @@
             <textarea id="message" name="message" rows="4" required></textarea>
 
             <button type="submit">Submit</button>
+            <button type="submit">Submit</button>
         </form>
     </div>
 </body>
